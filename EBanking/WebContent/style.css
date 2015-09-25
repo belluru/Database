@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+/*style for logout link*/
+.logout
+{
+	float:right;
+}
+
+/*style for heading at top of each page*/
+.pageheading
+{
+	padding-bottom: 125px;
+}
+
+body{
+	background:#000 url(images/dollar.jpg) 0 0;
+}
